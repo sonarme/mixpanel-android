@@ -7,7 +7,7 @@
     <groupId>com.mixpanel.android</groupId>
     <artifactId>mixpanel-android</artifactId>
     <packaging>jar</packaging>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0-SNAPSHOT-snr</version>
 
     <properties>
         <android.sdk>16</android.sdk>
